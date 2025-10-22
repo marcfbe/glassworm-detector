@@ -2,6 +2,12 @@
 
 This repository contains PowerShell scripts to detect and protect against the GlassWorm malware campaign that targets VS Code and Cursor extensions.
 
+NO WARRANTIES, [MIT License](LICENSE)
+
+> **⚠️ WARNING:**  
+> This list reflects the *current* state of known compromised VS Code and Cursor extensions and IP addresses as of **OCT-22-2025, 11:38:00 EST**.  
+> New malicious extensions may be discovered at any time. 
+
 ## Background
 
 **GlassWorm** is a sophisticated supply chain attack discovered in October 2025 that uses invisible Unicode characters to hide malicious code in VS Code extensions. The malware spreads through compromised extensions on the OpenVSX and VSCode marketplaces, affecting over 35,800 installations.
